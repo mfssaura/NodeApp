@@ -1,1 +1,1 @@
-"# node-mysql-crud-app" 
+This is a demo nodejs application for basic CRUD functionality
